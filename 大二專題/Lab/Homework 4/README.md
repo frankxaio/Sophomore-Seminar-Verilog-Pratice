@@ -4,4 +4,3 @@
 
 ## Example
 
-<video src="C:\Users\Xaio\Desktop\Seminar\大二專題\Lab\Homework 4\Example.MP4"></video>
