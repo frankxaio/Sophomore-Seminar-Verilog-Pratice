@@ -2,18 +2,18 @@
 module scan_led_hex_disp(
     input clk,
     input reset,
-    input [3:0] hex0, //第一个数码管显示的数字
+    input [3:0] hex0, 
     input [3:0] hex1,
     input [3:0] hex2,
     input [3:0] hex3,
-    input [3:0] dp_in, //小数点控制
-    output reg [3:0] an,   //片选
-    output reg [6:0] sseg  //段选
+    input [3:0] dp_in, 
+    output reg [3:0] an,   // 控制第幾個顯示器亮
+    output reg [6:0] sseg  // 愈輸出的數字
     );
 	
-	localparam N = 18; //使用低16位对50Mhz的时钟进行分频(50MHZ/2^16)
-	reg [N-1:0] regN; //高两位作为控制信号，低16位为计数器，对时钟进行分频
-	reg [3:0] hex_in; //段选控制信号
+	localparam N = 18; // 因為要留兩個bit作為判斷狀態的依據，所以使用 N=18 才能使 50MHz 分成，50Mhz/(2^15-1)。
+	reg [N-1:0] regN;  // 使用 16 bit 對 50Mhz 的 clock 進行分頻。
+	reg [3:0] hex_in; 
 	reg dp; 
 	
 	always@(posedge clk, posedge reset)
@@ -26,14 +26,14 @@ module scan_led_hex_disp(
 	
 	always@ (*)
 	begin
-		case(regN[N-1:N-2])
+		case(regN[N-1:N-2]) 
 		2'b00:begin
-			an = 4'b1110; //选中第1个数码管
-			hex_in = hex0; //数码管显示的数字由hex_in控制，显示hex0输入的数字；
-			dp = dp_in[0]; //控制该数码管的小数点的亮灭
+			an = 4'b1110;  // 選第零號顯示器
+			hex_in = hex0; // 將愈顯示在零號顯示器的數字輸入
+			dp = dp_in[0]; // 控制小數點
 		end
 		2'b01:begin
-			an = 4'b1101; //选中第二个数码管
+			an = 4'b1101;  // 選第一號顯示器
 			hex_in = hex1;
 			dp = dp_in[1];
 		end
