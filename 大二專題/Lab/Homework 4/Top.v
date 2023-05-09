@@ -8,8 +8,8 @@ module Top (
 );
 
     // 做累加需要用 DFF 
-    // 因為把 flip-flop 拿掉會造成combinational loop
-    // 造成電路會沒有穩態，變得無法控制，輸出都會變成unknown
+    // 因為把 flip-flop 拿掉會造成 combinational loop
+    // 造成電路會沒有穩態，變得無法控制，輸出都會變成 unknown
 
     reg [26:0] time_cnt;
     reg [26:0] time_cnt_n;
