@@ -1,5 +1,5 @@
 module Accumulator (
-    input clk,
+    input clk_plus,
     input clk_minus,
     input reset,
     output reg [3:0] Acc_out  
@@ -22,7 +22,7 @@ module Accumulator (
 	end
 
 
-    always @(posedge clk or posedge clk_minus or negedge reset) begin
+    always @(posedge clk_plus or posedge clk_minus or negedge reset) begin
         if (!reset)
             Acc_out <= 0;
         else if (clk_minus)
