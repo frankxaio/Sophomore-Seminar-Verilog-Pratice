@@ -1,4 +1,5 @@
 module Accumulator (
+    input clk,
     input clk_plus,
     input clk_minus,
     input reset,
@@ -7,29 +8,29 @@ module Accumulator (
     reg [3:0] Acc;
     reg [3:0] Acc_minus;
 
-    always @(*) begin
-		if (Acc_out>=10)
-			Acc = 0;
-        else
-			Acc = Acc_out + 1;
-	end
-
-    always @(*) begin
-		if (Acc_out < 0)
-			Acc_minus = 10;
-        else
-			Acc_minus = Acc_out - 1;
-	end
-
-
-    always @(posedge clk_plus or posedge clk_minus or negedge reset) begin
-        if (!reset)
-            Acc_out <= 0;
-        else if (clk_minus)
-            Acc_out <= Acc_minus;
-        else 
-            Acc_out <= Acc;
+  always @(posedge clk) begin
+    // 按下 clk_plus
+    if (clk_plus) begin         
+      if (Acc_out < 4'b1001) begin
+        Acc_out <= Acc_out + 1;  // 若小於 10 則加一
+      end
+      else begin
+        Acc_out <= 4'b0000;  
+      end
+    end 
+    // 按下 clk_minus
+    else if (clk_minus) begin 
+      if (Acc_out > 4'b0000) begin
+        Acc_out <= Acc_out - 1;  // 若大於 0 則減一
+      end
+      else begin
+        Acc_out <= 4'b1001;  
+      end
     end
+    else if (reset) begin  // 按下 reset
+      Acc_out <= 4'b0000;  
+    end
+  end
 
     
 endmodule //Accumulator
