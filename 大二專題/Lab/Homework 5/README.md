@@ -4,5 +4,5 @@
 
 ## Example 
 
-<video src="C:\Users\Xaio\Desktop\Seminar\大二專題\Lab\Homework 5\Example.mp4"></video>
+效果如 Example 影片中所示
 
