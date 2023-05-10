@@ -12,3 +12,10 @@ https://github.com/frankxaio/Seminar/assets/13852250/644edfdc-e962-4a12-9bb6-ae7
 - Dividor: 除頻器，負責將 50 MHz 的 clk 訊號分頻，除頻後的訊號送去 Accumulator 作為 clk 判斷是否按鈕已經按下
 - Debounce_circuit: 防按鈕彈跳
 - seven_segment_display: 負責七段顯示器輸出
+
+### Top
+![image](https://github.com/frankxaio/Seminar/assets/13852250/55b60d19-16c6-48ee-ac82-c11b679e20b3)
+
+### Accumulator
+![image](https://github.com/frankxaio/Seminar/assets/13852250/19e5eba2-a052-41c4-bf54-5edbde1e56d7)
+
