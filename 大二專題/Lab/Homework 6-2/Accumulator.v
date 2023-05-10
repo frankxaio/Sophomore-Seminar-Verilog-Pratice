@@ -6,7 +6,6 @@ module Accumulator (
     output reg [3:0] Acc_out  
 );
     reg [3:0] Acc;
-    reg [3:0] Acc_minus;
 
   always @(posedge clk) begin
     // 按下 clk_plus
