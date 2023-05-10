@@ -13,4 +13,9 @@ https://github.com/frankxaio/Seminar/assets/13852250/644edfdc-e962-4a12-9bb6-ae7
 - Debounce_circuit: 防按鈕彈跳
 - seven_segment_display: 負責七段顯示器輸出
 
+### Top
 ![image](https://github.com/frankxaio/Seminar/assets/13852250/55b60d19-16c6-48ee-ac82-c11b679e20b3)
+
+### Accumulator
+![image](https://github.com/frankxaio/Seminar/assets/13852250/54b63b26-7074-46d0-91a7-38bc1680413e)
+
