@@ -1,7 +1,7 @@
 # Lab 
 
 ## Getting Started
-- [FPGA 開發環境](https://xiao.ghost.io/zai-ubuntu-an-zhuang-ise-bing-shi-yong-basys2-an-zhuang-ubuntu/0)
+- [FPGA 開發環境](https://xiao.ghost.io/zai-ubuntu-an-zhuang-ise-bing-shi-yong-basys2-an-zhuang-ubuntu/)
 
 ### Better Text Editor for verilog
 - [VS Code 環境設定](https://www.dcard.tw/f/nctu/p/235935287) (Foramtter 不用安裝)
