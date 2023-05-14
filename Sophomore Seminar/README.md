@@ -8,9 +8,3 @@ FPGA 練習
 
 
 
-Name: Verilog Snippet
-Id: czh.czh-verilog-snippet
-Description: A snippet for verilog
-Version: 0.1.3
-Publisher: czh
-VS Marketplace Link: 
