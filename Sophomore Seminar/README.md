@@ -10,14 +10,14 @@
 
 
 ## Outline
-- [x] Homework 2-1 Adder 
-- [x] Homework 2-2 Ripple-carry adder 
-- [x] Homework 3-1 Mux
-- [x] Homework 3-2 ALU 
-- [x] Homework 4 Counter
-- [x] Homework 5 Seven segment display 
-- [x] Homework 6-1 Advanced counter
-- [x] Homework 6-2 Button control counter 
-- [x] Homework 7 Stopwatch 
-- [x] Homework 8 Stopwatch with switch 
-- [ ] Homework 9 Image processing 
+- Homework 2-1 Adder 
+- Homework 2-2 Ripple-carry adder 
+- Homework 3-1 Mux
+- Homework 3-2 ALU 
+- Homework 4 Counter
+- Homework 5 Seven segment display 
+- Homework 6-1 Advanced counter
+- Homework 6-2 Button control counter 
+- Homework 7 Stopwatch 
+- Homework 8 Stopwatch with switch 
+- Homework 9 Image processing 
