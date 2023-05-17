@@ -1,4 +1,4 @@
-# Homework 3-2
+# Homework 3-2 ALU
 
 ![](https://github.com/frankxaio/Seminar/blob/8179a7385a24b2c68a0d09b5f21743211347ffa2/%E5%A4%A7%E4%BA%8C%E5%B0%88%E9%A1%8C/Lab/Homework%203-2/image.png)
 
