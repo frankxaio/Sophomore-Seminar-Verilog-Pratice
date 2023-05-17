@@ -10,14 +10,14 @@
 
 
 ## Outline
-- Homework 2-1 Adder 
-- Homework 2-2 Ripple-carry adder 
-- Homework 3-1 Mux
-- Homework 3-2 ALU 
-- Homework 4 Counter
-- Homework 5 Seven segment display 
-- Homework 6-1 Advanced counter
-- Homework 6-2 Button control counter 
-- Homework 7 Stopwatch 
-- Homework 8 Stopwatch with switch 
-- Homework 9 Image processing 
+- [Homework 2-1 Adder ](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%202-1)
+- [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%202-2) 
+- [Homework 3-1 Mux](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%203-1)
+- [Homework 3-2 ALU](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%203-2) 
+- [Homework 4 Counter](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%204)
+- [Homework 5 Seven segment display](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%205) 
+- [Homework 6-1 Advanced counter](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%206-1)
+- [Homework 6-2 Button control counter](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%206-2) 
+- [Homework 7 Stopwatch](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%207) 
+- [Homework 8 Stopwatch with switch](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%208) 
+- [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%209) 
