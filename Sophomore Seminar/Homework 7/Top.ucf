@@ -1,7 +1,5 @@
 NET "clk" LOC = "B8"; # Bank = 0, Signal name = MCLK
 
-NET "sw" LOC = "P11";  # Bank = 2, Signal name = SW0
-
 NET "seg_out<0>" LOC = "L14"; # Bank = 1, Signal name = CA
 NET "seg_out<1>" LOC = "H12"; # Bank = 1, Signal name = CB
 NET "seg_out<2>" LOC = "N14"; # Bank = 1, Signal name = CC

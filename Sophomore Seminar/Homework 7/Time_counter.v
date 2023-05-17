@@ -1,7 +1,6 @@
 module Time_counter (
     input clk,
     input rstn,
-    input mode,
     output reg [3:0] acc1,
     output reg [3:0] acc2,
     output reg [3:0] acc3,
@@ -37,32 +36,29 @@ module Time_counter (
                 acc4 <= 0; 
         end
         else if (time_cnt == TIME_ONESEC)
-            case (mode)
-                1'b0:
-                    if ((acc1 == 4'd0) && (acc2 == 4'd0) && (acc3 == 4'd0) && (acc4 == 4'd0) ) begin
-                        acc1 <= 4'd0;
-                        acc2 <= 4'd0;
-                        acc3 <= 4'd0;
-                        acc4 <= 4'd6;
-                    end
-                    else if ( (acc1 == 4'd0) && (acc2 == 4'd0) && (acc3 == 4'd0) ) begin
-                        acc1 <= 4'd9;
-                        acc2 <= 4'd5;
-                        acc3 <= 4'd9;
-                        acc4 <= acc4 - 1;
-                    end
-                    else if ((acc1 == 4'd0) && (acc2 == 4'd0)) begin
-                        acc1 <= 4'd9;
-                        acc2 <= 4'd5;
-                        acc3 <= acc3 - 1;
-                    end
-                    else if (acc1 == 4'd0) begin
-                        acc1 <= 4'd9;
-                        acc2 <= acc2 - 1;
-                    end
-                    else 
-                        acc1 <= acc1 - 1;
-            endcase
+                if ((acc1 == 4'd0) && (acc2 == 4'd0) && (acc3 == 4'd0) && (acc4 == 4'd0) ) begin
+                    acc1 <= 4'd0;
+                    acc2 <= 4'd0;
+                    acc3 <= 4'd0;
+                    acc4 <= 4'd6;
+                end
+                else if ( (acc1 == 4'd0) && (acc2 == 4'd0) && (acc3 == 4'd0) ) begin
+                    acc1 <= 4'd9;
+                    acc2 <= 4'd5;
+                    acc3 <= 4'd9;
+                    acc4 <= acc4 - 1;
+                end
+                else if ((acc1 == 4'd0) && (acc2 == 4'd0)) begin
+                    acc1 <= 4'd9;
+                    acc2 <= 4'd5;
+                    acc3 <= acc3 - 1;
+                end
+                else if (acc1 == 4'd0) begin
+                    acc1 <= 4'd9;
+                    acc2 <= acc2 - 1;
+                end
+                else 
+                    acc1 <= acc1 - 1;
         end
 
 endmodule //Time_counter
