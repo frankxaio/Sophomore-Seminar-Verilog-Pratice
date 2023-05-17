@@ -1,4 +1,4 @@
-# Homework 5
+# Homework 5 Seven segment display
 
 使用指撥開關分別控制，四個七段顯示器顯示 ABCD。
 
