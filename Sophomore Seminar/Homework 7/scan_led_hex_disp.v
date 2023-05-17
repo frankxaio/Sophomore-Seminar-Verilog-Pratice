@@ -54,7 +54,7 @@ module scan_led_hex_disp(
 	always@ (*)
 	begin
 		case(hex_in)
-			4'h0: sseg[6:0] = 7'b100_0000; //共陰極
+			4'h0: sseg[6:0] = 7'b011_1111; //共陰極
 			4'h1: sseg[6:0] = 7'b111_1001;
 			4'h2: sseg[6:0] = 7'b010_0100;
 			4'h3: sseg[6:0] = 7'b011_0000;

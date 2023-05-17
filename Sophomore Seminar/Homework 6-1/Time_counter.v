@@ -5,6 +5,7 @@ module Time_counter (
     output reg [3:0] acc2,
     output reg [3:0] acc3
 );
+    // acc1, acc2, acc3 分別代表從右數來第一、第二、第三個 digit
     reg [28:0] time_cnt_n,  time_cnt ;
     parameter TIME_ONESEC = 27'd50_000_000;
     reg mode,  mode_n;
