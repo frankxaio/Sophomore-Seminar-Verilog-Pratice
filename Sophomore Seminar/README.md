@@ -10,7 +10,12 @@
 
 
 ## Outline
+
 ### Session 1 Basic
+
+#### Materials
+
+#### Lab
 - [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/9a021d93b0ea4b8a36e7381e541990cf96382d3e/Sophomore%20Seminar/Session%201/Homework%202-1)
 - [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%202-2) 
 - [Homework 3-1 Mux](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%203-1)
