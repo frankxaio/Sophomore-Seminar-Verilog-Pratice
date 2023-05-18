@@ -28,6 +28,7 @@
 - [Homework 8 Stopwatch with switch](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%208) 
 - [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%209) 
 
+
 ### Session 2 NYCU Dlab 
 
 #### Materials
@@ -35,14 +36,14 @@
 #### Lab
 
 
-### Session 3 Digital Circuit and System
+### Session 3 NYCU Digital Circuit and System
 
 #### Materials
 - Lecture Note
 
 #### Lab
 
-### Session 4 Computer Organization Lab
+### Session 4 NYCU Computer Organization Lab
 
 #### Materials
 - Spec and Report
