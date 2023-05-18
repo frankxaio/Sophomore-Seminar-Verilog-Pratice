@@ -2,7 +2,7 @@
 
 使用七段顯示器做一個讀秒器，從 0000 開始讀數讀到 0999 之後往回倒數回到 0000。
 
-## Example
+## Demo
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/B_E9Y4HUxIg/hqdefault.jpg)](https://youtu.be/B_E9Y4HUxIg)
 
@@ -34,7 +34,7 @@ assign test = &delay; // bitwise AND
 </details>
 
 ### Accumulator 
-使用 behavior model 寫 accumulator，若使用加法電路與F/F的觀點，會產生許多 latch，且不容易 debug。所以使用 behacior model，以下是不好的示範。
+使用 behavior model 寫 accumulator，若使用加法電路與F/F的觀點，會產生許多 latch，且不容易 debug。所以使用 behavior model，以下是不好的示範。
 
 <details>
 <summary>Code</summary>

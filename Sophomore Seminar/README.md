@@ -10,7 +10,8 @@
 
 
 ## Outline
-- [Homework 2-1 Adder ](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%202-1)
+### Session 1 
+- [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%202-1)
 - [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%202-2) 
 - [Homework 3-1 Mux](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%203-1)
 - [Homework 3-2 ALU](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%203-2) 
@@ -21,3 +22,5 @@
 - [Homework 7 Stopwatch](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%207) 
 - [Homework 8 Stopwatch with switch](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%208) 
 - [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%209) 
+
+### Session 2 
