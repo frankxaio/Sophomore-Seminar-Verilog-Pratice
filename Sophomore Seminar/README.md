@@ -42,4 +42,11 @@
 
 #### Lab
 
+### Session 4 Computer Organization Lab
+
+#### Materials
+- Spec and Report
+
+#### Lab
+
 
