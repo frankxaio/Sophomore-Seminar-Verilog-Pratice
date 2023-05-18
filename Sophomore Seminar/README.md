@@ -30,4 +30,16 @@
 
 ### Session 2 NYCU Dlab 
 
-### Session 3 Digital Circuit Design 
+#### Materials
+
+#### Lab
+
+
+### Session 3 Digital Circuit and System
+
+#### Materials
+- Lecture Note
+
+#### Lab
+
+
