@@ -56,7 +56,13 @@
 ### Session 4 NYCU Computer Organization Lab
 
 #### Materials
-- Spec and Report
+- [Lab 0 Create a Project in Vivado and Verilog Practice](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%200/spec.pdf)
+- [Lab 1 32-bit ALU](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%201/spec.pdf)
+- [Lab 2 Single Cycle CPU - Simple Edition](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%202/spec.pdf)
+- [Lab 3 Single Cycle CPU - Complete Edition](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%203/spec.pdf)
+- [Lab 4 Pipelined CPU](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%204/spec.pdf)
+- [Lab 5 Advanced Pipelined CPU](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%205/spec.pdf)
+- [Lab 6 Cache Simulator](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%206/spec.pdf)
 
 #### Lab
 
