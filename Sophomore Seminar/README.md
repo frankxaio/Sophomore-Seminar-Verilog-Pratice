@@ -26,7 +26,7 @@
 - [Homework 6-2 Button control counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-2) 
 - [Homework 7 Stopwatch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%207) 
 - [Homework 8 Stopwatch with switch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%208) 
-- [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%209) 
+- [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%209)  $\textrm{\textcolor{green}{TODO}}$
 
 
 ### Session 2 NYCU Digital Circuit Lab 
@@ -44,14 +44,15 @@
 - [Lab 10 VGA Graphic Display](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%2010/DCL_Lab_10.pdf)
 
 #### Lab
-
+$\textrm{\textcolor{green}{TODO}}$
 
 ### Session 3 NYCU Digital Circuit and System
 
 #### Materials
-- Lecture Note
+- Lecture Note: $\textrm{\textcolor{green}{TODO}}$
 
 #### Lab
+$\textrm{\textcolor{green}{TODO}}$
 
 ### Session 4 NYCU Computer Organization Lab
 
@@ -65,5 +66,6 @@
 - [Lab 6 Cache Simulator](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%206/spec.pdf)
 
 #### Lab
+$\textrm{\textcolor{green}{TODO}}$
 
 
