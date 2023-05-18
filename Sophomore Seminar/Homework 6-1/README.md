@@ -34,7 +34,7 @@ assign test = &delay; // bitwise AND
 </details>
 
 ### Accumulator 
-使用 behavior model 寫 accumulator，若使用加法電路與F/F的觀點，會產生許多 latch，且不容易 debug。所以使用 behacior model，以下是不好的示範。
+使用 behavior model 寫 accumulator，若使用加法電路與F/F的觀點，會產生許多 latch，且不容易 debug。所以使用 behavior model，以下是不好的示範。
 
 <details>
 <summary>Code</summary>
