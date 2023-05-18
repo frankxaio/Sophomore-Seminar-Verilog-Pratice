@@ -29,7 +29,7 @@
 - [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%209) 
 
 
-### Session 2 NYCU Dlab 
+### Session 2 NYCU Digital Circuit Lab 
 
 #### Materials
 
