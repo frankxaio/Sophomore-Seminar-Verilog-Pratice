@@ -10,7 +10,7 @@
 
 
 ## Outline
-### Session 1 
+### Session 1 Basic
 - [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/9a021d93b0ea4b8a36e7381e541990cf96382d3e/Sophomore%20Seminar/Session%201/Homework%202-1)
 - [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%202-2) 
 - [Homework 3-1 Mux](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%203-1)
@@ -23,4 +23,6 @@
 - [Homework 8 Stopwatch with switch](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%208) 
 - [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/main/Sophomore%20Seminar/Homework%209) 
 
-### Session 2 
+### Session 2 NYCU Dlab 
+
+### Session 3 Digital Circuit Design 
