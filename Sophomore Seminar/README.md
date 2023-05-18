@@ -32,6 +32,16 @@
 ### Session 2 NYCU Digital Circuit Lab 
 
 #### Materials
+- [Lab 1 Sequential Multiplier](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%201/DCL_Lab_01.pdf)
+- [Lab 2 Matrix Multiplication Simulation](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%202/DCL_Lab_02.pdf)
+- [Lab 3 Simple ALU](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%203/DCL_Lab_03.pdf)
+- [Lab 4 Push Button and LED Control](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%204/DCL_Lab_04.pdf)
+- [Lab 5 Character LCD Control](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%205/DCL_Lab_05.pdf)
+- [Lab 6 UART Communications](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%206/DCL_Lab_06.pdf)
+- [Lab 7 Matrix Multiplication Circuit for Real](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%207/DCL_Lab_07.pdf)
+- [Lab 8 SD Card Reader Circuit](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%208/DCL_Lab_08.pdf)
+- [Lab 9 Password Cracking](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%209/DCL_Lab_09.pdf)
+- [Lab 10 VGA Graphic Display](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%2010/DCL_Lab_10.pdf)
 
 #### Lab
 
