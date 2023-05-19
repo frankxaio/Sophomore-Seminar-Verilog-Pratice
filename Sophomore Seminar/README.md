@@ -26,7 +26,7 @@
 - [Homework 6-2 Button control counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-2) 
 - [Homework 7 Stopwatch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%207) 
 - [Homework 8 Stopwatch with switch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%208) 
-- [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%209)  $\textrm{\textcolor{green}{TODO}}$
+- [Homework 9 Image processing](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%209)  
 
 
 ### Session 2 NYCU Digital Circuit Lab 
