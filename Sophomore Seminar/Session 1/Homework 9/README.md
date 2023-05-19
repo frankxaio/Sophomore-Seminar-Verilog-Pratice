@@ -117,6 +117,7 @@ register 只能儲存 unsigned number, 所以利用 MSB == 1 來判斷負數。
 
 ### Tips
 
+##### data in mat 
 <details>
 <summary> Replace string </summary>
 
@@ -156,3 +157,6 @@ end
 fclose(fid);
 ```
 </details>
+
+#### Waveform simulation 
+使用 ISE 可以看到 module 內部的訊號。
