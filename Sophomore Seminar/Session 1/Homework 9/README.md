@@ -1,4 +1,4 @@
-# Homework 9
+# Homework 9 Image Processing Circuits
 參考 Matlab code，將完整運算過程轉成電路。
 ```matlab
 clear;
