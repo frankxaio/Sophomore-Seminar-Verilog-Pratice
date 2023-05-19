@@ -2,7 +2,7 @@
 
 module test_bench;
 	
-	reg [14499:0] image;
+	reg [14999:0] image;
 
 	reg [29999:0] weight1;
 	reg [599:0] Bias1;
@@ -10,14 +10,23 @@ module test_bench;
 	reg [5999:0] weight2;
 	reg [299:0] Bias2;	
 	
-	wire [2999:0] Answer;
+	wire [3:0] ans_1,ans_2,ans_3,ans_4,ans_5,ans_6,ans_7,ans_8,ans_9,ans_10;
 	
 	Top uut (.image(image),
 			 .weight1(weight1), 
 			 .Bias1(Bias1), 
 			 .weight2(weight2), 
 			 .Bias2(Bias2), 
-			 .Result(Answer));
+    		 .ans_1(ans_1),
+    		 .ans_2(ans_2),
+    		 .ans_3(ans_3),
+    		 .ans_4(ans_4),
+    		 .ans_5(ans_5),
+    		 .ans_6(ans_6),
+    		 .ans_7(ans_7),
+    		 .ans_8(ans_8),
+    		 .ans_9(ans_9),
+    		 .ans_10(ans_10));
 	
 	initial begin
 		

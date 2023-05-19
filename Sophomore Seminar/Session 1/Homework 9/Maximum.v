@@ -1,6 +1,15 @@
 module Maximum (
 	input [2999:0] image,
-    output reg [39:0] max_index
+    output reg [3:0] max_index_1,
+    output reg [3:0] max_index_2,
+    output reg [3:0] max_index_3,
+    output reg [3:0] max_index_4,
+    output reg [3:0] max_index_5,
+    output reg [3:0] max_index_6,
+    output reg [3:0] max_index_7,
+    output reg [3:0] max_index_8,
+    output reg [3:0] max_index_9,
+    output reg [3:0] max_index_10
 );
     reg [29:0] A1 [0:9][0:9];
     reg [29:0] max [0:9]; 
@@ -25,14 +34,22 @@ module Maximum (
             for (j = 0; j<10 ; j=j+1 ) begin
                 if (A1[i][j] > max[i]) begin
                     max[i] = A1[i][j];
-                    max_index_inter[i] = j+1;   // matlab 的 code 是從 i=1~10，所以 j+1 
+                    max_index_inter[i] = j+1; 
                 end
             end
         end
-        
-        max_index = {
-            max_index_inter[0], max_index_inter[1], max_index_inter[2], max_index_inter[3], max_index_inter[4], max_index_inter[5], max_index_inter[6], max_index_inter[7], max_index_inter[8], max_index_inter[9]
-        };
+
+        max_index_1 = max_index_inter[0];
+        max_index_2 = max_index_inter[1];
+        max_index_3 = max_index_inter[2];
+        max_index_4 = max_index_inter[3];
+        max_index_5 = max_index_inter[4];
+        max_index_6 = max_index_inter[5];
+        max_index_7 = max_index_inter[6];
+        max_index_8 = max_index_inter[7];
+        max_index_9 = max_index_inter[8];
+        max_index_10 = max_index_inter[9];
+
 
     end
 
