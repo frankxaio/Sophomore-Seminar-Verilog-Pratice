@@ -23,7 +23,7 @@ end
 ![image](https://github.com/frankxaio/Seminar/assets/13852250/3051da4d-1b45-43e2-a92d-65dec757e06a)
 ### Simulation
 ![image](https://github.com/frankxaio/Seminar/assets/13852250/56b53564-05fa-481e-a3ae-975f75a053f8)
-使用 ISE 可以看到 module 內部的訊號。
+> 使用 ISE 可以看到 module 內部的訊號。
 
 ## Note
 ### How input a matrix?
