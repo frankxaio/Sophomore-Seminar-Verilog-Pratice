@@ -2,7 +2,7 @@ module matrix_mutiply1(
 	input [14999:0] image,		// 30*10*50
 	input [29999:0] weight,		// 30*50*20
 	input [599:0] Bias,			// 30*20
-	output reg [5999:0] Result
+	output reg [5999:0] Result	// 30*10*20
 	);
 
 	reg [29:0] A1 [0:9][0:49];
@@ -55,13 +55,16 @@ module matrix_mutiply1(
 				for(k=0;k<50;k=k+1) begin
 					Res1[i][j] = Res1[i][j]+ (A1[i][k]*B1[k][j]);
 				end
-					if (Res1[i][j][29] == 1 ) // reg 沒有正負之分，藉由判斷MSB知道是否為負
+					// There is no distinction between positive and negative in Verilog.
+					// The sign can be determined by checking the MSB.
+					if (Res1[i][j][29] == 1 )  
 						Res1[i][j] = 0;
 					else 
 						Res1[i][j] = Res1[i][j] + Bias_reg[j];
 			end
 		end
-
+		
+		// Turn 2D array into 1D
 		Result = {Res1[0][0], Res1[0][1], Res1[0][2], Res1[0][3], Res1[0][4], Res1[0][5], Res1[0][6], Res1[0][7], Res1[0][8], Res1[0][9], Res1[0][10], Res1[0][11], Res1[0][12], Res1[0][13], Res1[0][14], Res1[0][15], Res1[0][16], Res1[0][17], Res1[0][18], Res1[0][19], Res1[1][0], Res1[1][1], Res1[1][2], Res1[1][3], Res1[1][4], Res1[1][5], Res1[1][6], Res1[1][7], Res1[1][8],
 		 Res1[1][9], Res1[1][10], Res1[1][11], Res1[1][12], Res1[1][13], Res1[1][14], Res1[1][15], Res1[1][16], Res1[1][17], Res1[1][18], Res1[1][19], Res1[2][0], Res1[2][1], Res1[2][2], Res1[2][3], Res1[2][4],
 		 Res1[2][5], Res1[2][6], Res1[2][7], Res1[2][8], Res1[2][9], Res1[2][10], Res1[2][11], Res1[2][12], Res1[2][13], Res1[2][14], Res1[2][15], Res1[2][16], Res1[2][17], Res1[2][18], Res1[2][19], Res1[3][0], Res1[3][1], Res1[3][2], Res1[3][3], Res1[3][4], Res1[3][5], Res1[3][6], Res1[3][7], Res1[3][8], Res1[3][9], Res1[3][10], Res1[3][11], Res1[3][12], Res1[3][13], Res1[3][14], Res1[3][15], Res1[3][16], Res1[3][17], Res1[3][18], Res1[3][19], Res1[4][0], Res1[4][1], Res1[4][2], Res1[4][3], Res1[4][4], Res1[4][5], Res1[4][6], Res1[4][7], Res1[4][8], Res1[4][9], Res1[4][10], Res1[4][11], Res1[4][12],

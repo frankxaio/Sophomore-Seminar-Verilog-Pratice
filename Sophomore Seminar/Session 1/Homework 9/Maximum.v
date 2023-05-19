@@ -1,4 +1,4 @@
-module Maximum (
+module maximum (
 	input [2999:0] image,
     output reg [3:0] max_index_1,
     output reg [3:0] max_index_2,
@@ -49,7 +49,6 @@ module Maximum (
         max_index_8 = max_index_inter[7];
         max_index_9 = max_index_inter[8];
         max_index_10 = max_index_inter[9];
-
 
     end
 
