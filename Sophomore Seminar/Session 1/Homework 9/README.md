@@ -112,7 +112,8 @@ endmodule
 ```
 </details>
 
- 
+### Maximum 
+register 只能儲存 unsigned number, 所以利用 MSB == 1 來判斷負數。
 
 ### Tips
 
