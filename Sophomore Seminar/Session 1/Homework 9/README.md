@@ -116,8 +116,7 @@ endmodule
 register 只能儲存 unsigned number, 所以利用 MSB == 1 來判斷負數。
 
 ### Tips
-
-##### data in mat 
+處理 mat 中的 data 小技巧
 <details>
 <summary> Replace string </summary>
 
