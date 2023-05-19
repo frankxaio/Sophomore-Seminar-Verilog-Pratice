@@ -1,5 +1,22 @@
 # Homework 9
 參考 Matlab code，將完整運算過程轉成電路。
+```matlab
+clear;
+clc;
+close all; 
+
+load weight;
+load input;
+
+for i  = 1:10
+    x = input(i,:) * weight  + bias;
+    x(x<0) = 0;
+    y = x * weight2 + bias2;
+    [a,b] = max(y);
+    arr_max_index(i) = b; 
+    arr_max(i) = a;
+end 
+```
 
 ## Demo
 ### Matlab Result
