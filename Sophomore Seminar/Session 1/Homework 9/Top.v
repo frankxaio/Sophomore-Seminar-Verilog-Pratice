@@ -38,7 +38,7 @@ module Top (
     // calculate the values of y 
     // and filter out values less than zero.
     // Although the matlab does not require filtering out zeros,
-    // in Verilog, comparisons can only be made between unsigned values.
+    // in Verilog, comparisons of register can only be made between unsigned values.
     // Therefore, I will filter out values less than zero here to facilitate the comparison.
     // =======================================================================================
 
