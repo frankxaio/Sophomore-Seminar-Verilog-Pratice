@@ -1,4 +1,4 @@
-# Lab 
+# Sophomore Seminar
 
 ## Getting Started
 - [FPGA 開發環境](https://hackmd.io/@Xaio/HkUUgeISh)
