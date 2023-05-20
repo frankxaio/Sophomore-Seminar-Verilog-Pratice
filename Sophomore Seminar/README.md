@@ -13,15 +13,15 @@
 #### Lab
 - [Homework 1 Adder](https://github.com/frankxaio/Seminar/tree/55bb0183392ab18161ae03a2afc8329e2b0ff90b/Sophomore%20Seminar/Session%201/Homework%201)
 - [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/9a021d93b0ea4b8a36e7381e541990cf96382d3e/Sophomore%20Seminar/Session%201/Homework%202-1)
-- [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%202-2) 
+- [Homework 2-2 Ripple-Carry Adder](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%202-2) 
 - [Homework 3-1 Mux](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%203-1)
 - [Homework 3-2 ALU](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%203-2) 
 - [Homework 4 Counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%204)
-- [Homework 5 Seven segment display](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%205) 
-- [Homework 6-1 Advanced counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-1)
-- [Homework 6-2 Button control counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-2) 
+- [Homework 5 Seven Segment Display](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%205) 
+- [Homework 6-1 Advanced Counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-1)
+- [Homework 6-2 Button Control Counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-2) 
 - [Homework 7 Stopwatch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%207) 
-- [Homework 8 Stopwatch with switch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%208) 
+- [Homework 8 Stopwatch with Switch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%208) 
 - [Homework 9 Image Processing Circuits ](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%209)  
 
 
