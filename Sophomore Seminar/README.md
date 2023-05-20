@@ -1,5 +1,15 @@
 # Lab 
 
+## Progress 
+- [x] Session 1 
+- [ ] Session 2 
+- [ ] Session 3 
+- [ ] Session 4
+- [ ] Session 5 
+- [ ] Session 6
+
+
+
 ## Getting Started
 - [FPGA 開發環境](https://hackmd.io/@Xaio/HkUUgeISh)
 - [Better Text Editor for Verilog ](https://hackmd.io/@Xaio/ryKQ7gIrh)
@@ -9,7 +19,7 @@
 ### Session 1 Basic
 
 #### Materials
-[FPGA lecture note](https://github.com/frankxaio/Seminar/tree/2a0795469a5805c76c9838a2ad727137fe14c912/Sophomore%20Seminar/Session%201/Resource/FPGA_Design)
+[FPGA Lecture Note](https://github.com/frankxaio/Seminar/tree/2a0795469a5805c76c9838a2ad727137fe14c912/Sophomore%20Seminar/Session%201/Resource/FPGA_Design)
 #### Lab
 - [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/9a021d93b0ea4b8a36e7381e541990cf96382d3e/Sophomore%20Seminar/Session%201/Homework%202-1)
 - [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%202-2) 
@@ -62,5 +72,9 @@ $\textrm{\textcolor{green}{TODO}}$
 
 #### Lab
 $\textrm{\textcolor{green}{TODO}}$
+
+### Session 5 
+
+### Session 6 
 
 
