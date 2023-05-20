@@ -21,14 +21,14 @@ end
 ## Demo
 ### Matlab Result
 ![image](https://github.com/frankxaio/Seminar/assets/13852250/3051da4d-1b45-43e2-a92d-65dec757e06a)
-### Simulation
+### Waveform Simulation
 ![image](https://github.com/frankxaio/Seminar/assets/13852250/56b53564-05fa-481e-a3ae-975f75a053f8)
-
+> 使用 ISE 可以看 module 內部的訊號。
 
 ## Note
 ### How input a matrix?
 module 的輸入與輸出只能是**一維陣列**，先以一維陣列輸入，再將一維陣列轉成二維陣列。舉 matrix_mutiply1 中的 code 為例。
-- `reg [29:0] A1 [0:9][0:49];`: 宣告了一個深度為 30-bit，擁有 10 個 row 與 50 column 的二維陣列。
+- `reg [29:0] A1 [0:9][0:49];`: 宣告了一個深度為 30-bit，擁有 10 個 row 與 50 column 的二維陣列。深度的意思為陣列中每個元素的 bit 數。
 - `{A1[0][0],A1[0][1], ..., A1[9][49]} = image;`: 將輸入的一維陣列轉成二維陣列的方式儲存，並進行運算。
 
 ### Matrix multiplication
@@ -112,10 +112,11 @@ endmodule
 ```
 </details>
 
- 
+### Maximum 
+register 只能儲存 unsigned number, 所以利用 MSB == 1 來判斷負數。
 
 ### Tips
-
+處理 mat 中的 data 小技巧
 <details>
 <summary> Replace string </summary>
 
@@ -155,3 +156,4 @@ end
 fclose(fid);
 ```
 </details>
+

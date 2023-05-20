@@ -1,20 +1,15 @@
 # Lab 
 
 ## Getting Started
-- [FPGA 開發環境](https://xiao.ghost.io/zai-ubuntu-an-zhuang-ise-bing-shi-yong-basys2-an-zhuang-ubuntu/)
-### Better Text Editor for Verilog
-- [VS Code 環境設定](https://www.dcard.tw/f/nctu/p/235935287) (Foramtter 不用安裝)
-- [Verilog Snippet](https://marketplace.visualstudio.com/items?itemName=czh.czh-verilog-snippet) 提供更多的提示字。 
-- [Tab out](https://marketplace.visualstudio.com/items?itemName=albert.TabOut) 使用 Tab 跳出括弧。
-- [Better Comment](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)  
-
+- [FPGA 開發環境](https://hackmd.io/@Xaio/HkUUgeISh)
+- [Better Text Editor for Verilog ](https://hackmd.io/@Xaio/ryKQ7gIrh)
 
 ## Outline
 
 ### Session 1 Basic
 
 #### Materials
-[FPGA lecture note](https://github.com/frankxaio/Seminar/tree/2a0795469a5805c76c9838a2ad727137fe14c912/Sophomore%20Seminar/Session%201/Resource/FPGA_Design)
+[FPGA Lecture Note](https://github.com/frankxaio/Seminar/tree/2a0795469a5805c76c9838a2ad727137fe14c912/Sophomore%20Seminar/Session%201/Resource/FPGA_Design)
 #### Lab
 - [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/9a021d93b0ea4b8a36e7381e541990cf96382d3e/Sophomore%20Seminar/Session%201/Homework%202-1)
 - [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%202-2) 
@@ -67,5 +62,6 @@ $\textrm{\textcolor{green}{TODO}}$
 
 #### Lab
 $\textrm{\textcolor{green}{TODO}}$
+
 
 
