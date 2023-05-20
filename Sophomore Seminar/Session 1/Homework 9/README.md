@@ -28,7 +28,7 @@ end
 ## Note
 ### How input a matrix?
 module 的輸入與輸出只能是**一維陣列**，先以一維陣列輸入，再將一維陣列轉成二維陣列。舉 matrix_mutiply1 中的 code 為例。
-- `reg [29:0] A1 [0:9][0:49];`: 宣告了一個深度為 30-bit，擁有 10 個 row 與 50 column 的二維陣列。
+- `reg [29:0] A1 [0:9][0:49];`: 宣告了一個深度為 30-bit，擁有 10 個 row 與 50 column 的二維陣列。深度的意思為陣列中每個元素的 bit 數。
 - `{A1[0][0],A1[0][1], ..., A1[9][49]} = image;`: 將輸入的一維陣列轉成二維陣列的方式儲存，並進行運算。
 
 ### Matrix multiplication
