@@ -11,6 +11,7 @@
 #### Materials
 [FPGA Lecture Note](https://github.com/frankxaio/Seminar/tree/2a0795469a5805c76c9838a2ad727137fe14c912/Sophomore%20Seminar/Session%201/Resource/FPGA_Design)
 #### Lab
+- [Homework 1 Adder](https://github.com/frankxaio/Seminar/tree/55bb0183392ab18161ae03a2afc8329e2b0ff90b/Sophomore%20Seminar/Session%201/Homework%201)
 - [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/9a021d93b0ea4b8a36e7381e541990cf96382d3e/Sophomore%20Seminar/Session%201/Homework%202-1)
 - [Homework 2-2 Ripple-carry adder](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%202-2) 
 - [Homework 3-1 Mux](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%203-1)
