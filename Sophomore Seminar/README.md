@@ -1,11 +1,5 @@
 # Lab 
 
-## Progress 
-- [x] Session 1 
-- [ ] Session 2 
-- [ ] Session 3 
-- [ ] Session 4
-
 ## Getting Started
 - [FPGA 開發環境](https://hackmd.io/@Xaio/HkUUgeISh)
 - [Better Text Editor for Verilog ](https://hackmd.io/@Xaio/ryKQ7gIrh)
