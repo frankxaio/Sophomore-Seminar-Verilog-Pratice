@@ -1,7 +1,7 @@
-# Lab 
+# Sophomore Seminar
 
 ## Getting Started
-- [FPGA 開發環境](https://hackmd.io/@Xaio/HkUUgeISh)
+- [Install ISE](https://hackmd.io/@Xaio/HkUUgeISh)
 - [Better Text Editor for Verilog ](https://hackmd.io/@Xaio/ryKQ7gIrh)
 
 ## Outline
