@@ -1,4 +1,4 @@
-# FPGA 講義
+# FPGA Lecture Note
 
 - [ISE](https://github.com/frankxaio/Seminar/blob/2051040838f44ba0e6dc0228dac8773e85d6edb9/Sophomore%20Seminar/Session%201/Resource/FPGA_Design/01_ISE.pdf)
 - [FPGA](https://github.com/frankxaio/Seminar/blob/2051040838f44ba0e6dc0228dac8773e85d6edb9/Sophomore%20Seminar/Session%201/Resource/FPGA_Design/02_FPGA.pdf)
