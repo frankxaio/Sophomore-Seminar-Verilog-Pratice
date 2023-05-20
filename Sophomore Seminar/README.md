@@ -2,12 +2,7 @@
 
 ## Getting Started
 - [FPGA 開發環境](https://hackmd.io/@Xaio/HkUUgeISh)
-### Better Text Editor for Verilog
-- [VS Code 環境設定](https://www.dcard.tw/f/nctu/p/235935287) 
-- [Verilog Snippet](https://marketplace.visualstudio.com/items?itemName=czh.czh-verilog-snippet) 提供更多的提示字。 
-- [Tab out](https://marketplace.visualstudio.com/items?itemName=albert.TabOut) 使用 Tab 跳出括弧。
-- [Better Comment](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)  
-
+- [Better Text Editor for Verilog ](https://hackmd.io/@Xaio/ryKQ7gIrh)
 
 ## Outline
 
