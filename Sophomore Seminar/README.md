@@ -5,10 +5,6 @@
 - [ ] Session 2 
 - [ ] Session 3 
 - [ ] Session 4
-- [ ] Session 5 
-- [ ] Session 6
-
-
 
 ## Getting Started
 - [FPGA 開發環境](https://hackmd.io/@Xaio/HkUUgeISh)
@@ -73,8 +69,5 @@ $\textrm{\textcolor{green}{TODO}}$
 #### Lab
 $\textrm{\textcolor{green}{TODO}}$
 
-### Session 5 
-
-### Session 6 
 
 
