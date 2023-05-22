@@ -9,7 +9,7 @@ module scan_led_hex_disp(input clk,
                          output reg [3:0] an,    // 控制第幾個顯示器亮
                          output reg [6:0] sseg); // 愈輸出的數字
     
-    localparam N = 18; // 因為要留兩個bit作為判斷狀態的依據，所以使用 N = 18 才能使 50MHz 分成，50Mhz/(2^15-1)。
+    localparam N = 18; // 因為要留兩個bit作為判斷狀態的依據，所以使用 N = 18 才能使 50MHz 分成，50Mhz/(2^16)。
     reg [N-1:0] regN;  // 使用 16 bit 對 50Mhz 的 clock 進行分頻。
     reg [3:0] hex_in;
     reg dp;
