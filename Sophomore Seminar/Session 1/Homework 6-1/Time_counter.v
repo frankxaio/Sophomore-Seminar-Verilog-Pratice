@@ -67,6 +67,8 @@ module Time_countker (input clk,
                 acc2 <= 0;
                 acc3 <= 0;
             end
+            // mode = 0: 進行加一的計數，當 acc1=9 的時候進位。
+            // 此時檢查 acc2=9，若成立，就將 acc3 進位。若不成立，就將 acc2 加一。 
             else if (time_cnt == TIME_ONESEC)
             case (mode)
                 1'b0: begin
