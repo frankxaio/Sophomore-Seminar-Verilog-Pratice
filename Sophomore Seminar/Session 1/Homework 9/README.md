@@ -139,7 +139,7 @@ for i in range(20):
 
 <details>
 <summary> Save mat to txt in Matlab </summary>
- 
+
 ```matlab
 fid = fopen('data.txt','wt');   % data.txt為寫入檔名
 matrix = M;                 % M 為要儲存的矩陣
@@ -157,3 +157,4 @@ fclose(fid);
 ```
 </details>
 
+- tastbench 讀檔案: 先把檔案讀進 memory 再輸入想要的 data。
