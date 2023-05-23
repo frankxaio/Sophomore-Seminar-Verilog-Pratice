@@ -18,7 +18,7 @@
 - [Homework 3-2 ALU](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%203-2) 
 - [Homework 4 Counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%204)
 - [Homework 5 Seven Segment Display](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%205) 
-- [Homework 6-1 Advanced Counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-1)
+- [Homework 6-1 0-999 Counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-1)
 - [Homework 6-2 Button Control Counter](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%206-2) 
 - [Homework 7 Stopwatch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%207) 
 - [Homework 8 Stopwatch with Switch](https://github.com/frankxaio/Seminar/tree/0b9a800da36210a1176e4f6e4ddd0ded224c67d1/Sophomore%20Seminar/Session%201/Homework%208) 
