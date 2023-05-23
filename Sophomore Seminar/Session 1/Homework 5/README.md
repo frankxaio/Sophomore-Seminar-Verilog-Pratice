@@ -4,7 +4,7 @@
 
 ## Demo 
 
-效果如 Example 影片中所示
+效果如影片所示
 
 https://github.com/frankxaio/Seminar/assets/13852250/90bf776c-4b28-4364-ac32-11d0d86ffabd
 
