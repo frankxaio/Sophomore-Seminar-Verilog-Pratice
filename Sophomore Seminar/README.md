@@ -1,7 +1,7 @@
 # Sophomore Seminar
 
 ## Getting Started
-- [Install ISE](https://hackmd.io/@Xaio/HkUUgeISh)
+- [Install ISE](https://ming-hong-xiao.ghost.io/zai-ubuntu-an-zhuang-ise-yu-shi-yong-basys-2-kai-fa-ban-2/)
 - [Better Text Editor for Verilog ](https://hackmd.io/@Xaio/ryKQ7gIrh)
 
 ## Outline
