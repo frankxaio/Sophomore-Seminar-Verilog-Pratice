@@ -41,7 +41,8 @@
 - [Lab 10 VGA Graphic Display](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%2010/DCL_Lab_10.pdf)
 
 #### Lab
-$\textrm{\textcolor{green}{TODO}}$
+- $\textrm{\textcolor{green}{TODO}}$
+- [reference ans](https://drive.google.com/file/d/1FE2sDOtBZEXiTHoL8vgLExn5-a4pwruk/view?usp=drive_link)
 
 ### Session 3 NYCU Digital Circuit and System
 
@@ -63,7 +64,8 @@ $\textrm{\textcolor{green}{TODO}}$
 - [Lab 9 Clock Domain Crossing (CDC)](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%209/DCS_LAB09_v2.pdf)
 
 #### Lab
-$\textrm{\textcolor{green}{TODO}}$
+- $\textrm{\textcolor{green}{TODO}}$
+- [reference ans](https://drive.google.com/file/d/1n0aIZT3SgyfL24HCJ0qKNLUEapN6A2Qz/view?usp=drive_link)
 
 ### Session 4 NYCU Computer Organization Lab
 
@@ -77,7 +79,16 @@ $\textrm{\textcolor{green}{TODO}}$
 - [Lab 6 Cache Simulator](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%206/spec.pdf)
 
 #### Lab
-$\textrm{\textcolor{green}{TODO}}$
+- $\textrm{\textcolor{green}{TODO}}$
+- [reference ans](https://drive.google.com/file/d/1hjxs-g-UW4KN0tq8umI6m3q-UHGAc9gK/view?usp=drive_link)
 
+### Session 5 NTU Digital System Design 
+
+#### Materials 
+- $\textrm{\textcolor{green}{TODO}}$
+- 
+#### Lab 
+-  $\textrm{\textcolor{green}{TODO}}$
+-  [reference ans](https://drive.google.com/file/d/1FE2sDOtBZEXiTHoL8vgLExn5-a4pwruk/view?usp=drive_link)
 
 
