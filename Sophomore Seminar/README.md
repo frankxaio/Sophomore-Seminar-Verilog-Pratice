@@ -46,10 +46,21 @@ $\textrm{\textcolor{green}{TODO}}$
 ### Session 3 NYCU Digital Circuit and System
 
 #### Materials
-- [Homework 1](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%201/HW01.pdf)
-- [Homework 2](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%202/DCS_HW02.pdf)
-- [Homework 3](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%203/DCS_HW03_v3.pdf) 
-- [Homework 4](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%204/DCS_HW04_v3.pdf)
+
+- [Homework 1 Calculate Numbers](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%201/HW01.pdf)
+- [Homework 2 Visa Check Digit](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%202/DCS_HW02.pdf)
+- [Homework 3 Vending Machine](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%203/DCS_HW03_v3.pdf) 
+- [Homework 4 MIPS CPU with Pipeline](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%204/DCS_HW04_v3.pdf)
+- [Homework 5 Convolution](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Homework%205/DCS_HW05_v1.pdf)
+- [Lab 1 Maximum Number](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%201/DCS_Lab01.pdf) 
+- [Lab 2 Timer](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%202/DCS_Lab02_v2.pdf)
+- [Lab 3 Maximum](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%203/DCS_Lab03.pdf)
+- [Lab 4 Sequence](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%204/DCS_LAB04_v2.pdf)
+- [Lab 5 AHB interconnect](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%205/DCS_Lab05.pdf)
+- [Lab 6 Floating Point Computation](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%206/DCS_Lab06.pdf)
+- [Lab 7 Pattern](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%207/DCS_LAB07.pdf)
+- [Lab 8 Pipeline](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%208/DCS_lab08.pdf)
+- [Lab 9 Clock Domain Crossing (CDC)](https://github.com/frankxaio/Seminar/blob/8943ae8a26f74869c29d32562704fd04b914c9a6/Sophomore%20Seminar/Session%203/Lab%209/DCS_LAB09_v2.pdf)
 
 #### Lab
 $\textrm{\textcolor{green}{TODO}}$
