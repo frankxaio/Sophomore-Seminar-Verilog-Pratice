@@ -6,7 +6,7 @@
 
 ## Outline
 
-### Session 1 CGU DSP & IC Design Lab
+### CGU DSP & IC Design Lab
 
 #### Materials
 [FPGA Lecture Note](https://github.com/frankxaio/Seminar/tree/2a0795469a5805c76c9838a2ad727137fe14c912/Sophomore%20Seminar/Session%201/Resource/FPGA_Design)
@@ -26,7 +26,7 @@
 - [Homework 9 Image Processing Circuits ](https://github.com/frankxaio/Seminar/tree/85aafd9eaf1fc292b4592337fc7cb56e9d415eba/Sophomore%20Seminar/Session%201/Homework%209)  
 
 
-### Session 2 NYCU Digital Circuit Lab 
+### NYCU Digital Circuit Lab 
 
 #### Materials
 - [Lab 1 Sequential Multiplier](https://github.com/frankxaio/Seminar/blob/2b49a4bc64c8b2fff2dbe44b4523045d58c669c8/Sophomore%20Seminar/Session%202/Lab%201/DCL_Lab_01.pdf)
@@ -44,7 +44,7 @@
 - $\textrm{\textcolor{green}{TODO}}$
 - [reference ans](https://drive.google.com/file/d/1FE2sDOtBZEXiTHoL8vgLExn5-a4pwruk/view?usp=drive_link)
 
-### Session 3 NYCU Digital Circuit and System
+### NYCU Digital Circuit and System
 
 #### Materials
 
@@ -67,7 +67,7 @@
 - $\textrm{\textcolor{green}{TODO}}$
 - [reference ans](https://drive.google.com/file/d/1n0aIZT3SgyfL24HCJ0qKNLUEapN6A2Qz/view?usp=drive_link)
 
-### Session 4 NYCU Computer Organization Lab
+### NYCU Computer Organization Lab
 
 #### Materials
 - [Lab 0 Create a Project in Vivado and Verilog Practice](https://github.com/frankxaio/Seminar/blob/3286c2190f66a00de30766398212e82cf1aab646/Sophomore%20Seminar/Session%204/Lab%200/spec.pdf)
@@ -82,7 +82,7 @@
 - $\textrm{\textcolor{green}{TODO}}$
 - [reference ans](https://drive.google.com/file/d/1hjxs-g-UW4KN0tq8umI6m3q-UHGAc9gK/view?usp=drive_link)
 
-### Session 5 NTU Digital System Design 
+### NTU Digital System Design 
 
 #### Materials 
 - $\textrm{\textcolor{green}{TODO}}$
