@@ -6,10 +6,11 @@
 
 ## Outline
 
-### Session 1 Basic
+### Session 1 CGU DSP & IC Design Lab
 
 #### Materials
 [FPGA Lecture Note](https://github.com/frankxaio/Seminar/tree/2a0795469a5805c76c9838a2ad727137fe14c912/Sophomore%20Seminar/Session%201/Resource/FPGA_Design)
+
 #### Lab
 - [Homework 1 Adder](https://github.com/frankxaio/Seminar/tree/55bb0183392ab18161ae03a2afc8329e2b0ff90b/Sophomore%20Seminar/Session%201/Homework%201)
 - [Homework 2-1 Adder](https://github.com/frankxaio/Seminar/tree/9a021d93b0ea4b8a36e7381e541990cf96382d3e/Sophomore%20Seminar/Session%201/Homework%202-1)
@@ -45,7 +46,10 @@ $\textrm{\textcolor{green}{TODO}}$
 ### Session 3 NYCU Digital Circuit and System
 
 #### Materials
-- Lecture Note: $\textrm{\textcolor{green}{TODO}}$
+- [Homework 1](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%201/HW01.pdf)
+- [Homework 2](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%202/DCS_HW02.pdf)
+- [Homework 3](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%203/DCS_HW03_v3.pdf) 
+- [Homework 4](https://github.com/frankxaio/Seminar/blob/69f1935cf459a9d257c7bdf77c3df84dd26926df/Sophomore%20Seminar/Session%203/Homework%204/DCS_HW04_v3.pdf)
 
 #### Lab
 $\textrm{\textcolor{green}{TODO}}$
