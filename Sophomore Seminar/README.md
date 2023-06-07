@@ -1,5 +1,8 @@
 # Sophomore Seminar
 
+![image](https://github.com/frankxaio/Seminar/assets/13852250/a0692112-6936-46e5-845a-781ba149d408)
+背景知識與各 Lab 的先後順序
+
 ## Getting Started
 - [Install ISE](https://ming-hong-xiao.ghost.io/zai-ubuntu-an-zhuang-ise-yu-shi-yong-basys-2-kai-fa-ban-2/)
 - [Better Text Editor for Verilog ](https://hackmd.io/@Xaio/ryKQ7gIrh)
