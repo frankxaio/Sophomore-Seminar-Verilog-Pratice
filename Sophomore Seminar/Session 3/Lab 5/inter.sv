@@ -49,7 +49,7 @@ module inter (
   // 將資料讀進來，存到 register，並加上 asynchronous reset 
   always_ff @(posedge clk, negedge rst_n) begin : input_in_valid_1
     if (!rst_n) in_valid_1_reg <= 0;
-    // state == S_master1 此時已經將輸入資料存進 register 裡，之後就可以把 in_valid 拉為 0
+    // state == S_master1 此時已經將輸入資料存進 register 裡，之後就可以把 in_valid1 拉為 0
     else if (state == S_master1) in_valid_1_reg <= 0;
     else if (in_valid_1) in_valid_1_reg <= in_valid_1;
     else in_valid_1_reg <= in_valid_1_reg;
@@ -57,6 +57,7 @@ module inter (
 
   always_ff @(posedge clk, negedge rst_n) begin : input_in_valid_2
     if (!rst_n) in_valid_2_reg <= 0;
+    // state == S_master2 此時已經將輸入資料存進 register 裡，之後就可以把 in_valid2 拉為 0
     else if (state == S_master2) in_valid_2_reg <= 0;
     else if (in_valid_2) in_valid_2_reg <= in_valid_2;
     else in_valid_2_reg <= in_valid_2_reg;
@@ -65,6 +66,7 @@ module inter (
   always_ff @(posedge clk, negedge rst_n) begin : input_in_valid_3
     if (!rst_n) in_valid_3_reg <= 0;
     else if (state == S_master3) in_valid_3_reg <= 0;
+    // state == S_master3 此時已經將輸入資料存進 register 裡，之後就可以把 in_valid3 拉為 0
     else if (in_valid_3) in_valid_3_reg <= in_valid_3;
     else in_valid_3_reg <= in_valid_3_reg;
   end
