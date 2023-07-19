@@ -1,0 +1,1 @@
+gtkwave PAT1.vcd --rcvar 'fontname_signals Monospace 14' --rcvar 'fontname_waves Monospace 12'
