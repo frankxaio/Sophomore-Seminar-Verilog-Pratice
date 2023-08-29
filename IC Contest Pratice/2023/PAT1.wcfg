@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testfixture_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testfixture" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="375.533 ns"></ZoomStartTime>
+      <ZoomEndTime time="459.734 ns"></ZoomEndTime>
+      <Cursor1Time time="390.700 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="162"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/testfixture/u_LASER/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testfixture/u_LASER/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="group107" type="group">
+      <obj_property name="label">Input Data</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/testfixture/u_LASER/X" type="array">
+         <obj_property name="ElementShortName">X[3:0]</obj_property>
+         <obj_property name="ObjectShortName">X[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/Y" type="array">
+         <obj_property name="ElementShortName">Y[3:0]</obj_property>
+         <obj_property name="ObjectShortName">Y[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/x_list" type="array">
+         <obj_property name="ElementShortName">x_list[0:39][3:0]</obj_property>
+         <obj_property name="ObjectShortName">x_list[0:39][3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/y_list" type="array">
+         <obj_property name="ElementShortName">y_list[0:39][3:0]</obj_property>
+         <obj_property name="ObjectShortName">y_list[0:39][3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/cnt" type="array">
+         <obj_property name="ElementShortName">cnt[7:0]</obj_property>
+         <obj_property name="ObjectShortName">cnt[7:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider73">
+      <obj_property name="label">FIND</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testfixture/u_LASER/cs" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">cs[3:0]</obj_property>
+      <obj_property name="ObjectShortName">cs[3:0]</obj_property>
+      <obj_property name="label">State</obj_property>
+      <obj_property name="CustomSignalColor">#FAAFBE</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testfixture/u_LASER/p1_list" type="array">
+      <obj_property name="ElementShortName">p1_list[39:0]</obj_property>
+      <obj_property name="ObjectShortName">p1_list[39:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testfixture/u_LASER/p2_list" type="array">
+      <obj_property name="ElementShortName">p2_list[39:0]</obj_property>
+      <obj_property name="ObjectShortName">p2_list[39:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testfixture/u_LASER/abs_x" type="array">
+      <obj_property name="ElementShortName">abs_x[0:39][3:0]</obj_property>
+      <obj_property name="ObjectShortName">abs_x[0:39][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testfixture/u_LASER/abs_y" type="array">
+      <obj_property name="ElementShortName">abs_y[0:39][3:0]</obj_property>
+      <obj_property name="ObjectShortName">abs_y[0:39][3:0]</obj_property>
+      <obj_property name="CellHeight">31</obj_property>
+   </wvobject>
+   <wvobject fp_name="group162" type="group">
+      <obj_property name="label">Scan</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="/testfixture/u_LASER/x" type="array">
+         <obj_property name="ElementShortName">x[3:0]</obj_property>
+         <obj_property name="ObjectShortName">x[3:0]</obj_property>
+         <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/y" type="array">
+         <obj_property name="ElementShortName">y[3:0]</obj_property>
+         <obj_property name="ObjectShortName">y[3:0]</obj_property>
+         <obj_property name="CellHeight">28</obj_property>
+         <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+         <obj_property name="UseCustomSignalColor">true</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group160" type="group">
+      <obj_property name="label">Circle 1</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/testfixture/u_LASER/x1" type="array">
+         <obj_property name="ElementShortName">x1[3:0]</obj_property>
+         <obj_property name="ObjectShortName">x1[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/y1" type="array">
+         <obj_property name="ElementShortName">y1[3:0]</obj_property>
+         <obj_property name="ObjectShortName">y1[3:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group161" type="group">
+      <obj_property name="label">Circle 2</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/testfixture/u_LASER/x2" type="array">
+         <obj_property name="ElementShortName">x2[3:0]</obj_property>
+         <obj_property name="ObjectShortName">x2[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/y2" type="array">
+         <obj_property name="ElementShortName">y2[3:0]</obj_property>
+         <obj_property name="ObjectShortName">y2[3:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group256" type="group">
+      <obj_property name="label">Old Circle 2 </obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/testfixture/u_LASER/x_best" type="array">
+         <obj_property name="ElementShortName">x_best[3:0]</obj_property>
+         <obj_property name="ObjectShortName">x_best[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/y_best" type="array">
+         <obj_property name="ElementShortName">y_best[3:0]</obj_property>
+         <obj_property name="ObjectShortName">y_best[3:0]</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group106" type="group">
+      <obj_property name="label">OUTPUT</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/testfixture/u_LASER/C1X" type="array">
+         <obj_property name="ElementShortName">C1X[3:0]</obj_property>
+         <obj_property name="ObjectShortName">C1X[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/C1Y" type="array">
+         <obj_property name="ElementShortName">C1Y[3:0]</obj_property>
+         <obj_property name="ObjectShortName">C1Y[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/C2X" type="array">
+         <obj_property name="ElementShortName">C2X[3:0]</obj_property>
+         <obj_property name="ObjectShortName">C2X[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/C2Y" type="array">
+         <obj_property name="ElementShortName">C2Y[3:0]</obj_property>
+         <obj_property name="ObjectShortName">C2Y[3:0]</obj_property>
+      </wvobject>
+      <wvobject fp_name="/testfixture/u_LASER/DONE" type="logic">
+         <obj_property name="ElementShortName">DONE</obj_property>
+         <obj_property name="ObjectShortName">DONE</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>
