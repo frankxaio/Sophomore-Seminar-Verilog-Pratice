@@ -52,8 +52,7 @@ module LASER (
         y_list[i+1] <= y_list[i];
       end
       // input data only 40 sets, to avoid data begin pushed out.
-    end 
-    else begin
+    end else begin
       for (i = 0; i < 40; i = i + 1) begin
         x_list[i] <= x_list[i];
         y_list[i] <= y_list[i];
@@ -129,39 +128,23 @@ module LASER (
   always @(*) begin
     case (cs)
       INPUT: cnt_nxt = cnt + 1;
-      FIND:  begin // special scan path 
-          if (cnt == 31)
-            cnt_nxt <= cnt + 31;
-          else if (cnt == 12)
-            cnt_nxt <= cnt + 32;
-          else if (cnt == 44)
-            cnt_nxt <= cnt + 8;
-          else if (cnt == 52)
-            cnt_nxt <= cnt + 24;
-          else if (cnt == 76)
-            cnt_nxt <= cnt + 8;
-          else if (cnt == 61)
-            cnt_nxt <= cnt + 61;
-          else if (cnt == 122)
-            cnt_nxt <= cnt + 25;
-          else if (cnt == 147)
-            cnt_nxt <= cnt + 8;
-          else if (cnt == 155)
-            cnt_nxt <= cnt + 2;
-          else if (cnt == 157)
-            cnt_nxt <= cnt + 4;
-          else if (cnt == 180)
-            cnt_nxt <= cnt + 3;
-          else if (x == 11)
-            cnt_nxt <= cnt + 5;
-          else if (x == 1)
-            cnt_nxt <= cnt + 2;
-          else if (x == 4)
-            cnt_nxt <= cnt + 3;
-          else if (x == 5)
-            cnt_nxt <= cnt + 2;
-          else  
-            cnt_nxt <= cnt + 1;
+      FIND: begin  // special scan path 
+        if (cnt == 31) cnt_nxt <= cnt + 31;
+        else if (cnt == 12) cnt_nxt <= cnt + 32;
+        else if (cnt == 44) cnt_nxt <= cnt + 8;
+        else if (cnt == 52) cnt_nxt <= cnt + 24;
+        else if (cnt == 76) cnt_nxt <= cnt + 8;
+        else if (cnt == 61) cnt_nxt <= cnt + 61;
+        else if (cnt == 122) cnt_nxt <= cnt + 25;
+        else if (cnt == 147) cnt_nxt <= cnt + 8;
+        else if (cnt == 155) cnt_nxt <= cnt + 2;
+        else if (cnt == 157) cnt_nxt <= cnt + 4;
+        else if (cnt == 180) cnt_nxt <= cnt + 3;
+        else if (x == 11) cnt_nxt <= cnt + 5;
+        else if (x == 1) cnt_nxt <= cnt + 2;
+        else if (x == 4) cnt_nxt <= cnt + 3;
+        else if (x == 5) cnt_nxt <= cnt + 2;
+        else cnt_nxt <= cnt + 1;
       end
     endcase
     // scan point
@@ -173,7 +156,7 @@ module LASER (
   always @(*) begin
     case (cs)
       INPUT: ns = (cnt == 39) ? FIND : cs;
-      FIND: ns = (cnt == 183) ? CHECK : cs; // special xy scanning path
+      FIND: ns = (cnt == 183) ? CHECK : cs;  // special xy scanning path
       CHECK: ns = ((x1 == x_best) && (y1 == y_best)) ? OUTPUT : FIND;
       OUTPUT: ns = INPUT;
       default: ns = INPUT;
