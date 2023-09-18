@@ -2,8 +2,8 @@
 `define CYCLE 8.0  
 `define SDFFILE "./LASER_syn.sdf"
 `define MAX_CYCLE_PER_PATTERN 50000
-// `define USECOLOR 
-// `define P1
+`define USECOLOR
+`define P6
 // `define P6
 
 
@@ -51,27 +51,27 @@ module testfixture ();
   //end
 
   initial begin
-     $dumpvars(0, testfixture);
-     $dumpfile("LASER.vcd");
+    $dumpvars(0, testfixture);
+    $dumpfile("LASER.vcd");
   end
 
 `ifdef P1
-  string PAT[1] = {"C:/Users/Xaio/Desktop/Summer Project/img1.pattern"};
+  string PAT[1] = {"C:/Users/Xaio/Desktop/Seminar/IC Contest Pratice/2023/img1.pattern "};
   parameter pat_number = 1;
 `elsif P2
-  string PAT[1] = {"C:/Users/Xaio/Desktop/Summer Project/img2.pattern"};
+  string PAT[1] = {"C:/Users/Xaio/Desktop/Seminar/IC Contest Pratice/2023/img2.pattern"};
   parameter pat_number = 1;
 `elsif P3
-  string PAT[1] = {"C:/Users/Xaio/Desktop/Summer Project/img3.pattern"};
+  string PAT[1] = {"C:/Users/Xaio/Desktop/Seminar/IC Contest Pratice/2023/img3.pattern"};
   parameter pat_number = 1;
 `elsif P4
-  string PAT[1] = {"C:/Users/Xaio/Desktop/Summer Project/img4.pattern"};
+  string PAT[1] = {"C:/Users/Xaio/Desktop/Seminar/IC Contest Pratice/2023/img4.pattern"};
   parameter pat_number = 1;
 `elsif P5
-  string PAT[1] = {"C:/Users/Xaio/Desktop/Summer Project/img5.pattern"};
+  string PAT[1] = {"C:/Users/Xaio/Desktop/Seminar/IC Contest Pratice/2023/img5.pattern"};
   parameter pat_number = 1;
 `elsif P6
-  string PAT[1] = {"C:/Users/Xaio/Desktop/Summer Project/img6.pattern"};
+  string PAT[1] = {"C:/Users/Xaio/Desktop/Seminar/IC Contest Pratice/2023/img6.pattern"};
   parameter pat_number = 1;
 `else
   string PAT[6] = {"C:/Users/Xaio/Desktop/Summer Project/img1.pattern",
